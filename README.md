@@ -12,4 +12,4 @@
 
 - 🤝 I’m looking for help with **RAHUldkjain**
 
-![GitHub_Stats] https://github-readme-stats.vercel.app/api?username=amrith-anshu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrith-anshu&theme=radical)
