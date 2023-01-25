@@ -6,9 +6,9 @@
 <h1 align="center">Hi 👋, I'm Amrithanshu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Android app**
+- 🔭 I’m currently working on **Todo Application**
 
-- 👯 I’m looking to collaborate on **Calculator**
+- 👯 I’m looking to collaborate on **Solve Leetcode Problems**
 
 - 🤝 I’m looking for help with **RAHUldkjain**
 
