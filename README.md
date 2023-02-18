@@ -10,6 +10,6 @@
 
 - 👯 I’m looking to collaborate on **Solve Leetcode Problems**
 
-- 🤝 I’m looking for help with ****
+- 🤝 I’m working with **MrinalRaj** on Major Project
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrith-anshu&theme=radical)
